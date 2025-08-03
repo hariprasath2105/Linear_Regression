@@ -29,4 +29,4 @@ interface = gr.Interface(
 
 # Launch app
 if __name__ == "__main__":
-    interface.launch(share=True)
+    interface.launch()
