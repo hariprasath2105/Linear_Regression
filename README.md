@@ -85,25 +85,16 @@ Once everything is set up, run the Gradio interface:
 python model.py
 ```
 
-A browser window will open with the UI where you can enter study hours and get score predictions.
-
 ---
 
 ## 📸 Screenshots
 
 ### 📥 Input UI
-![Student Score Predictor - Input](./screenshots/input_ui.png)
+<img width="1364" height="339" alt="image" src="https://github.com/user-attachments/assets/17dfea1f-1df2-4320-b169-a791aa14f96b" />
+
 
 ### 📈 Output Prediction
-![Student Score Predictor - Output](./screenshots/output_ui.png)
-
-> Place your screenshots in a `screenshots/` folder and name them `input_ui.png` and `output_ui.png`.
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
+<img width="1366" height="310" alt="image" src="https://github.com/user-attachments/assets/bee5ca9d-d8fd-4c97-9f93-121a565b8c5d" />
 
 ---
 
