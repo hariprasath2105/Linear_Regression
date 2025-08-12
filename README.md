@@ -1,17 +1,16 @@
-
-# 🎯 Student Score Predictor
+# Student Score Predictor
 
 A simple web application built with Python and Gradio that predicts a student's exam score based on the number of hours studied, using a **Linear Regression model**.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project demonstrates how to use Linear Regression for predicting numerical outcomes. It takes input as **hours studied** and predicts the **score** using a pre-trained model (`model.pkl`) trained on a dataset of student scores.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 student-score-predictor/
@@ -26,7 +25,7 @@ student-score-predictor/
 
 ---
 
-## 🧪 Dataset
+## Dataset
 
 **File**: `student_scores.csv`
 
@@ -45,7 +44,7 @@ student-score-predictor/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology     | Use                  |
 |----------------|----------------------|
@@ -63,7 +62,7 @@ student-score-predictor/
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ### Step 1: Clone the Repository
 ```bash
@@ -76,37 +75,18 @@ cd Linear-Regression
 pip install -r requirements.txt
 ```
 
-### Step 3: Train the Model (if needed)
+### Step 3: Train the Model and run
 ```bash
 python model.py
 ```
-
 ---
 
-## 💡 Usage
+## Screenshots
 
-Once everything is set up, run the Gradio interface:
-
-```bash
-python model.py
-```
-
----
-
-## 📸 Screenshots
-
-### 📥 Input UI
+### Input UI
 <img width="1364" height="339" alt="image" src="https://github.com/user-attachments/assets/17dfea1f-1df2-4320-b169-a791aa14f96b" />
 
-
-### 📈 Output Prediction
+### Output Prediction
 <img width="1366" height="310" alt="image" src="https://github.com/user-attachments/assets/bee5ca9d-d8fd-4c97-9f93-121a565b8c5d" />
-
----
-
-## 🙋‍♂️ Author
-
-**Hari Prasath S**  
-[GitHub Profile](https://github.com/hariprasath2105)
 
 ---
